@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2020-01-01T19:55:06Z" product-name="parser">
+		<header/>
+		<body>
+			<trans-unit id="request.description">
+				<source>request</source>
+			</trans-unit>
+			<trans-unit id="p_link.description">
+				<source>multiple requests</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

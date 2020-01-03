@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2020-01-01T19:55:06Z" product-name="parser">
+		<header/>
+		<body>
+			<trans-unit id="tx_parser_domain_model_parser">
+				<source>Parser</source>
+			</trans-unit>
+			<trans-unit id="tx_parser_domain_model_parser.request">
+				<source>Request</source>
+			</trans-unit>
+			<trans-unit id="tx_parser_domain_model_parser.p_link">
+				<source>P Link</source>
+			</trans-unit>
+			<trans-unit id="tx_parser_domain_model_response">
+				<source>Response</source>
+			</trans-unit>
+			<trans-unit id="tx_parser_domain_model_response.result">
+				<source>Result</source>
+			</trans-unit>
+			<trans-unit id="tx_parser_domain_model_response.r_link">
+				<source>R Link</source>
+			</trans-unit>
+			<trans-unit id="tx_parser_psone.name">
+				<source>Pserser One</source>
+			</trans-unit>
+			<trans-unit id="tx_parser_psone.description">
+				<source>first parser</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,31 @@
+{
+    "name": "cm/parser",
+    "type": "typo3-cms-extension",
+    "description": "a simple parser",
+    "authors": [],
+    "version": "1.0.0",
+    "require": {
+        "typo3/cms-core": "^9.5"
+    }
+    ,
+    "autoload-dev": {
+        "psr-4": {
+            "CM\\Parser\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "parser": "self.version",
+        "typo3-ter/parser": "self.version"
+    },
+    "extra": {
+    "typo3/cms": {
+        "extension-key": "parser"
+    		}
+	},
+    "autoload": {
+       "psr-4": {
+	       "CM\\parser\\": "Classes"
+       }
+    }
+
+}
